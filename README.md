@@ -6,7 +6,7 @@ Welcome to the official release page for GS GAME LAUNCHER ! This page provides a
 
 ### Release v1.0.0 - "GS GAME LAUNCHER" (May 25, 2023)
 
-![Project Name Logo](https://images.pling.com/img/00/00/62/49/85/2040463/picsart-23-05-24-18-35-13-111png)
+![Game Luncher](https://images.pling.com/img/00/00/62/49/85/2040463/picsart-23-05-24-18-35-13-111png)
 
 Description of the latest release goes here. Provide an overview of the milestone achieved and highlight the most significant changes, improvements, or additions. Include screenshots or visuals if relevant.
 
